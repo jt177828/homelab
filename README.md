@@ -14,10 +14,3 @@ A self-hosted Linux server running on a Lenovo ThinkPad, built for learning purp
 | Service | Purpose |
 |---|---|
 | Docker | Container runtime for all services |
-
-## Setup Notes
-
-- Installed Ubuntu Server 24.04 via USB
-- Configured static IP via Netplan
-- All services containerized with Docker Compose
-- Remote access configured with Tailscale (no open ports)
